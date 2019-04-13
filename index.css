@@ -2,6 +2,7 @@
   position: fixed;
   right: 0;
   bottom: 0;
+  object-fit: fill;
   min-width: 100%;
   min-height: 100%;
 }
