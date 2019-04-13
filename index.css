@@ -13,3 +13,7 @@ padding:0;
   -o-background-size: cover;
   background-size: cover;
 }
+
+.carousel, .item, .active {
+height:100%;
+}
